@@ -1,8 +1,10 @@
 ---
 title: Python中NumPy详解
 date: 2023-12-24 13:18:03
-tags: [python,numpy]
-categories: [python]
+tags:
+  - python
+categories:
+  - python
 ---
 
 ## NumPy

@@ -1,8 +1,12 @@
 ---
 title: STL中list的介绍
 date: 2023-12-13 18:50:46
-tags: [C++ ,STL,list]
-categories: [C++ ,STL]
+tags:
+  - C++
+  - STL
+categories:
+  - C++
+  - STL
 ---
 
 # 介绍

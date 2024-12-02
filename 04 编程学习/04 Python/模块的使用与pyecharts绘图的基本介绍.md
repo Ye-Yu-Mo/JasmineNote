@@ -1,8 +1,10 @@
 ---
 title: Python中json模块的使用与pyecharts绘图的基本介绍
 date: 2023-12-24 19:26:15
-tags: [python,json,pyecharts]
-categories: [python]
+tags:
+  - python
+categories:
+  - python
 ---
 
 ## json模块

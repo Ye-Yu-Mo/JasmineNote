@@ -1,8 +1,12 @@
 ---
 title: STL中stack与queue详解
 date: 2023-12-21 17:38:29
-tags: [C++ ,STL,stack,queue]
-categories: [C++ ,STL]
+tags:
+  - C++
+  - STL
+categories:
+  - C++
+  - STL
 ---
 
 # stack与queue的基本介绍

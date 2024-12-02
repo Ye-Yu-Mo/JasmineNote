@@ -1,8 +1,10 @@
 ---
 title: 每日算法打卡：K倍区间
 date: 2024-01-10 18:30:51
-tags: [算法,前缀和]
-categories: [算法]
+tags:
+  - 算法
+categories:
+  - 算法
 ---
 
 ## 原题链接

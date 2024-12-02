@@ -1,8 +1,10 @@
 ---
 title: SQLite数据库介绍
 date: 2024-09-30 18:03:59
-tags: [SQLite,数据库]
-categories: [数据库]
+tags:
+  - 数据库
+categories:
+  - 数据库
 ---
 
 ## SQLite

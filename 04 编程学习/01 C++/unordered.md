@@ -1,8 +1,11 @@
 ---
 title: 哈希封装unordered系列关联式容器
 date: 2024-04-24 19:33:25
-tags: [C++,数据结构,哈希表,哈希,封装]
-categories: [C++]
+tags:
+  - C++
+  - 数据结构
+categories:
+  - C++
 ---
 
 ## 补档

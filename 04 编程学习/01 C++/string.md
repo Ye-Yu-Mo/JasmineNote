@@ -1,8 +1,12 @@
 ---
 title: STL与string的介绍
 date: 2023-12-06 15:30:25
-tags: [C++,STL,string]
-categories: [C++,STL]
+tags:
+  - C++
+  - STL
+categories:
+  - C++
+  - STL
 ---
 
 # STL介绍

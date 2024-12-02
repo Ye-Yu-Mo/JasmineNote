@@ -1,8 +1,10 @@
 ---
 title: GTest测试框架介绍
 date: 2024-10-01 14:37:24
-tags: [gtest,框架,测试]
-categories: [框架]
+tags:
+  - 框架
+categories:
+  - 框架
 ---
 
 GTest是谷歌发布的一个跨平台的单元测试框架,主要是为了在不同平台上编写的C++单元测试而生成的

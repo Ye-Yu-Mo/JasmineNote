@@ -1,8 +1,11 @@
 ---
 title: 红黑树封装map和set
 date: 2024-04-12 20:24:58
-tags: [C++,数据结构,红黑树,map,set]
-categories: [C++]
+tags:
+  - C++
+  - 数据结构
+categories:
+  - C++
 ---
 
 ## 封装的一些小问题
@@ -177,7 +180,7 @@ namespace xu {
 
 1. MapKeyOfT是一个仿函数，用于获取对应K的值
 2. typedef typename主要是因为C++的特性原因，我们之前在封装的部分也有遇到过，主要是因为编译器不认识后面这一串东西到底是什么，有可能是内部类，有可能是类型名，也有可能是类成员，因此这里是必须要加上typename的，要告诉编译器这时一个类型名，放心编译
-3. 这里方括号的妙用主要是由于pair设计的出色，我在之前介绍[[map和set]]的文章中已经讲解了，这里给出链接[[[map和set]]介绍](http://t.csdnimg.cn/TyFcX)
+3. 这里方括号的妙用主要是由于pair设计的出色，我在之前介绍[[map和set]]的文章中已经讲解了，这里给出链接[[map和set]]介绍](http://t.csdnimg.cn/TyFcX)
 4. 我们通过const K来限制key不可改变，这里比较简单
 
 ## set.h

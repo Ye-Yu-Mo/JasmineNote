@@ -1,8 +1,11 @@
 ---
 title: unordered系列关联式容器和开散列与闭散列的模拟实现
 date: 2024-04-19 12:53:18
-tags: [C++,数据结构,哈希表,哈希]
-categories: [C++]
+tags:
+  - C++
+  - 数据结构
+categories:
+  - C++
 ---
 
 ## unordered系列关联式容器

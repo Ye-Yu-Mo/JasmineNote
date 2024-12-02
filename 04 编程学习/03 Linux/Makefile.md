@@ -1,8 +1,11 @@
 ---
 title: Linux工具之make/Makefile
 date: 2023-12-29 21:50:01
-tags: [Linux,makefile]
-categories: [Linux]
+tags:
+  - Linux
+  - "#工具"
+categories:
+  - Linux
 ---
 
 ## make/Makefile

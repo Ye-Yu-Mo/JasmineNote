@@ -1,8 +1,12 @@
 ---
 title: STL中vector的介绍
 date: 2023-12-09 14:28:46
-tags: [C++ ,STL,vector]
-categories: [C++ ,STL]
+tags:
+  - C++
+  - STL
+categories:
+  - C++
+  - STL
 ---
 
 # vector介绍

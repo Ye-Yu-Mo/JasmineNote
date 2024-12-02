@@ -1,8 +1,10 @@
 ---
 title: HTML基础
 date: 2024-02-02 16:20:19
-tags: [Web,HTML]
-categories: [Web]
+tags:
+  - 前端
+categories:
+  - Web
 ---
 
 # HTML 基础

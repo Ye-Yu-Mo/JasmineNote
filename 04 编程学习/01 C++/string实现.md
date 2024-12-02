@@ -1,8 +1,12 @@
 ---
 title: string类的模拟实现
 date: 2023-12-08 14:38:24
-tags: [C++,STL,string]
-categories: [C++,STL]
+tags:
+  - C++
+  - STL
+categories:
+  - C++
+  - STL
 ---
 
 # string模拟实现

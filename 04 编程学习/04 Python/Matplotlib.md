@@ -1,8 +1,10 @@
 ---
 title: Python可视化之Matplotlib
 date: 2023-12-27 19:00:03
-tags: [python,matplotlib]
-categories: [python]
+tags:
+  - python
+categories:
+  - python
 ---
 
 ## Matplotlib与可视化分析

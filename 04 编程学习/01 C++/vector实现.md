@@ -1,8 +1,12 @@
 ---
 title: vector的简单模拟实现
 date: 2023-12-12 19:02:39
-tags: [C++ ,STL,vector]
-categories: [C++ ,STL]
+tags:
+  - C++
+  - STL
+categories:
+  - C++
+  - STL
 ---
 
 # vector的简单模拟实现

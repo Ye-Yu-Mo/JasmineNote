@@ -1,8 +1,10 @@
 ---
 title: C/C++static关键字详解
 date: 2024-09-30 12:03:10
-tags: [C++,C]
-categories: [C++]
+tags:
+  - C++
+categories:
+  - C++
 ---
 
 static是一个非常重要的关键字，为什么呢，用法又多，说不定哪里来一下就给人整懵了，而且还比较复杂，有必要专门记录一下static的用法

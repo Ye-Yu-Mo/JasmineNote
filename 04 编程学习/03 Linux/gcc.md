@@ -1,8 +1,11 @@
 ---
 title: Linux中的gcc\g++使用
 date: 2023-12-28 18:51:19
-tags: [Linux,gcc,g++]
-categories: [Linux]
+tags:
+  - Linux
+  - 工具
+categories:
+  - Linux
 ---
 
 ## gcc\g++的使用

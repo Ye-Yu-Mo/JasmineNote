@@ -1,8 +1,11 @@
 ---
 title: Linux多线程——POSIX信号量与环形队列版本之生产消费模型
 date: 2024-09-07 15:29:45
-tags: [Linux,多线程,生产消费模型,环形队列]
-categories: [Linux]
+tags:
+  - Linux
+  - 多线程
+categories:
+  - Linux
 ---
 
 ## POSIX信号量

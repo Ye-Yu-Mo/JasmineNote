@@ -1,8 +1,10 @@
 ---
 title: ProtoBuf序列化框架介绍
 date: 2024-09-21 20:06:00
-tags: [框架,序列化]
-categories: [框架]
+tags:
+  - 框架
+categories:
+  - 框架
 ---
 
 ## ProtoBuf介绍

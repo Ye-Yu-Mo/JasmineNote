@@ -1,8 +1,11 @@
 ---
 title: C++手撕AVL树
 date: 2024-03-26 18:48:00
-tags: [C++,数据结构,AVL树]
-categories: [C++]
+tags:
+  - C++
+  - 数据结构
+categories:
+  - C++
 ---
 
 ## AVL树

@@ -1,8 +1,10 @@
 ---
 title: Python中Pandas详解之数据结构
 date: 2023-12-25 16:36:52
-tags: [python,pandas]
-categories: [python]
+tags:
+  - python
+categories:
+  - python
 ---
 
 ## Pandas 数据分析
