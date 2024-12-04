@@ -1,0 +1,210 @@
+{
+  "workspaces": {
+    "读书": {
+      "main": {
+        "id": "d8d69baf93bcf0f5",
+        "type": "split",
+        "children": [
+          {
+            "id": "f9ff2900e9cd886d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "34c92da535620e0f",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://weread.qq.com/web/reader/43832a10813ab703dg011c78ka5b325d0225a5bfc9e0772d"
+                  },
+                  "icon": "lucide-file",
+                  "title": "小米创业思考 - 第二部分 小米方法论 - 雷军 徐洁云 - 微信读书"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5bfcc95aa39c78c3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a193f5b3d49411ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 读书笔记/小米创业思考.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "小米创业思考"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f019ff5a5ef59e8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "ce8e3fe7a13861b1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53066d848180a4c7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "6b53f4e54f4ce057",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "f06e04fee0d29f17",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "2d8357fb86ab6717",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              }
+            ]
+          },
+          {
+            "id": "57e88e10c77e26ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "95e5ab4223341948",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "5b7b6445c95223aa",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "05 读书笔记/小米创业思考.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "小米创业思考 的出链列表"
+                }
+              },
+              {
+                "id": "9de84dc2f344ad40",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "05 读书笔记/小米创业思考.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "引用",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "小米创业思考 的反向链接列表"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "db01bb4cbc053c89",
+        "type": "split",
+        "children": [
+          {
+            "id": "17387b3067f03de5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "47d166131c28d3cf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "05 读书笔记/小米创业思考.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "小米创业思考 的大纲"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 224.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "surfing:surfing-bookmark-manager": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "mxmind:Mxmind": false,
+          "obsidian-git:Open Git source control": false
+        }
+      },
+      "active": "a193f5b3d49411ba",
+      "mtime": "2024-12-04T12:37:47+08:00"
+    }
+  },
+  "active": "读书"
+}

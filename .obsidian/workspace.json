@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "d8d69baf93bcf0f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4653f02ec9556568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bcbcf4e1167afd2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f019ff5a5ef59e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce8e3fe7a13861b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53066d848180a4c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6b53f4e54f4ce057",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f06e04fee0d29f17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "2d8357fb86ab6717",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "57e88e10c77e26ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b7b6445c95223aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "9de84dc2f344ad40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "引用",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "db01bb4cbc053c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "17387b3067f03de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47d166131c28d3cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "a199d7c9727afff4",
+            "type": "leaf",
+            "state": {
+              "type": "mxmind-view",
+              "state": {},
+              "icon": "network",
+              "title": "Mxmind"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "surfing:surfing-bookmark-manager": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "mxmind:Mxmind": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "a199d7c9727afff4",
+  "lastOpenFiles": [
+    "05 读书笔记/小米创业思考.md",
+    "04 编程学习/02 算法/背包问题.md",
+    "04 编程学习/01 C++/单例模式特殊类.md",
+    "06 旅行计划/01 杭州.md",
+    "04 编程学习/01 C++/常引用.md",
+    "04 编程学习/03 Linux/进程切换与环境变量.md",
+    "04 编程学习/03 Linux/程序地址空间详解.md",
+    "04 编程学习/01 C++/线程池.md",
+    "04 编程学习/03 Linux/进程等待.md",
+    "04 编程学习/03 Linux/从《计算机网络》到网络编程.md",
+    "06 旅行计划/哈尔滨.md",
+    "02 template/旅行计划.md",
+    "06 旅行计划",
+    "book/研究生自救指南reduce.pdf",
+    "book/06 Git/Git 原理与使用.pdf",
+    "book/研究生自救指南.pdf.md",
+    "Clippings/Ye-Yu-MoJasmineNote A repository that may contain study notes in various fields.md",
+    "Clippings/ChatGPT.md",
+    "03 画板/大学突围.xmind",
+    "book/图解HTTP 彩色版@www.java1234.com.pdf",
+    "book/数据结构与STL.pdf",
+    "README.md",
+    "00 index/2024-12-02.md",
+    "00 index/未命名 1.md",
+    "book/《学术“咸鱼”自救指南》钱婧.pdf",
+    "04 编程学习/03 Linux/八大技术架构与演进.md",
+    "04 编程学习/01 C++/布隆过滤器.md",
+    "04 编程学习/01 C++/多态详解.md",
+    "04 编程学习/01 C++/多态问题.md",
+    "01 asset/Pasted image 20241202165602.png",
+    "04 编程学习/01 C++/继承.md",
+    "04 编程学习/04 Python/函数.md",
+    "book/奔跑吧Linux内核——基于Linux 4.x内核源代_ (Z-Library)(1).pdf",
+    "04 编程学习/02 算法/波动数列.md",
+    "02 template",
+    "02 读书笔记/未命名.md",
+    "05 读书笔记",
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/right-passive.png",
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/right-active.png",
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/left-passive.png",
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/left-active.png",
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/centre-passive.png",
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/centre-active.png",
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/29/tab.png",
+    "未命名.canvas"
+  ]
+}

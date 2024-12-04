@@ -1,0 +1,11 @@
+{
+	"id": "statblock-sidekick",
+	"name": "Statblock Sidekick",
+	"version": "1.0.3",
+	"minAppVersion": "1.6.3",
+	"description": "Create and expand D&D 5e statblocks.",
+	"author": "n21rl",
+	"authorUrl": "https://github.com/n21rl",
+	"fundingUrl": "ko-fi.com/n21rl",
+	"isDesktopOnly": false
+}

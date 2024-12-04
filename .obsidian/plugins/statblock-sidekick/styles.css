@@ -1,0 +1,15 @@
+.form-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.form-input {
+    flex-grow: 1;
+    margin-right: 15px; /* Add margin between input and button */
+}
+
+.form-button {
+    width: auto; /* Auto-width based on content inside */
+}
