@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4653f02ec9556568",
+        "id": "a1804dc6e47340ec",
         "type": "tabs",
         "children": [
           {
-            "id": "1bcbcf4e1167afd2",
+            "id": "05b1df5eeaec17dd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a199d7c9727afff4",
+  "active": "05b1df5eeaec17dd",
   "lastOpenFiles": [
+    "README.md",
+    "00 index/未命名.md",
     "05 读书笔记/小米创业思考.md",
     "04 编程学习/02 算法/背包问题.md",
     "04 编程学习/01 C++/单例模式特殊类.md",
@@ -197,7 +199,6 @@
     "03 画板/大学突围.xmind",
     "book/图解HTTP 彩色版@www.java1234.com.pdf",
     "book/数据结构与STL.pdf",
-    "README.md",
     "00 index/2024-12-02.md",
     "00 index/未命名 1.md",
     "book/《学术“咸鱼”自救指南》钱婧.pdf",
@@ -211,7 +212,6 @@
     "book/奔跑吧Linux内核——基于Linux 4.x内核源代_ (Z-Library)(1).pdf",
     "04 编程学习/02 算法/波动数列.md",
     "02 template",
-    "02 读书笔记/未命名.md",
     "05 读书笔记",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",
