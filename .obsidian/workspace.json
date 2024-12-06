@@ -4,22 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "a1804dc6e47340ec",
+        "id": "f9ff2900e9cd886d",
         "type": "tabs",
         "children": [
           {
-            "id": "05b1df5eeaec17dd",
+            "id": "34c92da535620e0f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://weread.qq.com/web/reader/43832a10813ab703dg011c78kd6432e00228d645920e3401"
+              },
+              "icon": "lucide-file",
+              "title": "小米创业思考 - 第三部分 小米方法论的实践 - 雷军 徐洁云 - 微信读书"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5bfcc95aa39c78c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a193f5b3d49411ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 index/未命名.md",
+                "file": "05 读书笔记/小米创业思考.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "小米创业思考"
             }
           }
         ]
@@ -94,17 +112,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "95e5ab4223341948",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
             "id": "5b7b6445c95223aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 index/未命名.md",
+                "file": "05 读书笔记/小米创业思考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "小米创业思考 的出链列表"
             }
           },
           {
@@ -113,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "05 读书笔记/小米创业思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +151,11 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "小米创业思考 的反向链接列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -145,24 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 index/未命名.md"
+                "file": "05 读书笔记/小米创业思考.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
-            }
-          },
-          {
-            "id": "a199d7c9727afff4",
-            "type": "leaf",
-            "state": {
-              "type": "mxmind-view",
-              "state": {},
-              "icon": "network",
-              "title": "Mxmind"
+              "title": "小米创业思考 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "surfing:surfing-bookmark-manager": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -177,18 +197,38 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "mxmind:Mxmind": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "mxmind:Mxmind": false
     }
   },
-  "active": "05b1df5eeaec17dd",
+  "active": "a193f5b3d49411ba",
   "lastOpenFiles": [
+    "05 读书笔记/小米创业思考.md",
+    "04 编程学习/08 CppReview/momenta面经.md",
+    "04 编程学习/08 CppReview/算法数据结构复习/数据结构.md",
+    "04 编程学习/08 CppReview/算法数据结构复习/算法.md",
+    "04 编程学习/08 CppReview/问答.md",
+    "04 编程学习/08 CppReview/许磊-游戏引擎研发工程师.pdf",
+    "04 编程学习/08 CppReview/许磊-游戏引擎研发工程师.docx",
+    "04 编程学习/08 CppReview/许磊-后端研发实习生.pdf",
+    "04 编程学习/08 CppReview/许磊-后端研发实习生.docx",
+    "04 编程学习/08 CppReview/许磊-C++后端实习.pdf",
+    "04 编程学习/08 CppReview/许磊-C++后端实习.docx",
+    "04 编程学习/08 CppReview/算法数据结构复习",
+    "04 编程学习/08 CppReview/~$-C++后端实习.docx",
+    "04 编程学习/08 CppReview/Lei Xu Software Dev Engineer Intern.pdf",
+    "04 编程学习/08 CppReview/Lei Xu Software Dev Engineer Intern.docx",
+    "08 CppReview/算法数据结构复习/算法.md",
+    "08 CppReview/算法数据结构复习/数据结构.md",
+    "08 CppReview/问答.md",
+    "08 CppReview/momenta面经.md",
+    "CppReview/算法数据结构复习/算法.md",
+    "CppReview/算法数据结构复习/数据结构.md",
+    "CppReview/问答.md",
+    "CppReview/momenta面经.md",
+    "00 index/未命名.md",
     "01 asset/Pasted image 20241204214034.png",
     "02 template/旅行计划.md",
     "README.md",
-    "00 index/未命名.md",
-    "05 读书笔记/小米创业思考.md",
     "04 编程学习/02 算法/背包问题.md",
     "04 编程学习/01 C++/单例模式特殊类.md",
     "06 旅行计划/01 杭州.md",
@@ -199,28 +239,7 @@
     "04 编程学习/03 Linux/进程等待.md",
     "04 编程学习/03 Linux/从《计算机网络》到网络编程.md",
     "06 旅行计划/哈尔滨.md",
-    "06 旅行计划",
-    "book/研究生自救指南reduce.pdf",
-    "book/06 Git/Git 原理与使用.pdf",
-    "book/研究生自救指南.pdf.md",
-    "Clippings/Ye-Yu-MoJasmineNote A repository that may contain study notes in various fields.md",
-    "Clippings/ChatGPT.md",
-    "03 画板/大学突围.xmind",
-    "book/图解HTTP 彩色版@www.java1234.com.pdf",
-    "book/数据结构与STL.pdf",
-    "00 index/2024-12-02.md",
-    "00 index/未命名 1.md",
-    "book/《学术“咸鱼”自救指南》钱婧.pdf",
-    "04 编程学习/03 Linux/八大技术架构与演进.md",
-    "04 编程学习/01 C++/布隆过滤器.md",
-    "04 编程学习/01 C++/多态详解.md",
-    "04 编程学习/01 C++/多态问题.md",
     "01 asset/Pasted image 20241202165602.png",
-    "04 编程学习/01 C++/继承.md",
-    "04 编程学习/04 Python/函数.md",
-    "book/奔跑吧Linux内核——基于Linux 4.x内核源代_ (Z-Library)(1).pdf",
-    "02 template",
-    "05 读书笔记",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/right-passive.png",
@@ -229,7 +248,6 @@
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/left-active.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/centre-passive.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/centre-active.png",
-    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/29/tab.png",
     "未命名.canvas"
   ]
 }

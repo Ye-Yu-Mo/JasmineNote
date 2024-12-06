@@ -15,10 +15,10 @@
                 "state": {
                   "type": "surfing-view",
                   "state": {
-                    "url": "https://weread.qq.com/web/reader/43832a10813ab703dg011c78ka5b325d0225a5bfc9e0772d"
+                    "url": "https://weread.qq.com/web/reader/43832a10813ab703dg011c78kd6432e00228d645920e3401"
                   },
                   "icon": "lucide-file",
-                  "title": "小米创业思考 - 第二部分 小米方法论 - 雷军 徐洁云 - 微信读书"
+                  "title": "小米创业思考 - 第三部分 小米方法论的实践 - 雷军 徐洁云 - 微信读书"
                 }
               }
             ]
@@ -119,8 +119,8 @@
                 "state": {
                   "type": "git-view",
                   "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
+                  "icon": "lucide-file",
+                  "title": "插件不再活动"
                 }
               },
               {
@@ -191,6 +191,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "github-sync:Sync with Remote": false,
           "surfing:surfing-bookmark-manager": false,
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
@@ -198,12 +199,11 @@
           "templates:插入模板": false,
           "command-palette:打开命令面板": false,
           "workspaces:管理工作区布局": false,
-          "mxmind:Mxmind": false,
-          "obsidian-git:Open Git source control": false
+          "mxmind:Mxmind": false
         }
       },
       "active": "a193f5b3d49411ba",
-      "mtime": "2024-12-04T12:37:47+08:00"
+      "mtime": "2024-12-06T12:13:47+08:00"
     }
   },
   "active": "读书"
