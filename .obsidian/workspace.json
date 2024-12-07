@@ -4,40 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f9ff2900e9cd886d",
+        "id": "1d57cae8fdff3887",
         "type": "tabs",
         "children": [
           {
-            "id": "34c92da535620e0f",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://weread.qq.com/web/reader/43832a10813ab703dg011c78kd6432e00228d645920e3401"
-              },
-              "icon": "lucide-file",
-              "title": "小米创业思考 - 第三部分 小米方法论的实践 - 雷军 徐洁云 - 微信读书"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5bfcc95aa39c78c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a193f5b3d49411ba",
+            "id": "deba8af22bedcda1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 读书笔记/小米创业思考.md",
+                "file": "06 旅行计划/01 南京.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小米创业思考"
+              "title": "01 南京"
             }
           }
         ]
@@ -52,6 +34,7 @@
       {
         "id": "ce8e3fe7a13861b1",
         "type": "tabs",
+        "dimension": 62.60245901639344,
         "children": [
           {
             "id": "53066d848180a4c7",
@@ -110,17 +93,8 @@
       {
         "id": "57e88e10c77e26ba",
         "type": "tabs",
+        "dimension": 37.39754098360656,
         "children": [
-          {
-            "id": "95e5ab4223341948",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
           {
             "id": "5b7b6445c95223aa",
             "type": "leaf",
@@ -141,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 读书笔记/小米创业思考.md",
+                "file": "06 旅行计划/01 南京.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,11 +125,11 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "小米创业思考 的反向链接列表"
+              "title": "01 南京 的反向链接列表"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 读书笔记/小米创业思考.md"
+                "file": "06 旅行计划/01 南京.md"
               },
               "icon": "lucide-list",
-              "title": "小米创业思考 的大纲"
+              "title": "01 南京 的大纲"
             }
           }
         ]
@@ -200,9 +174,13 @@
       "mxmind:Mxmind": false
     }
   },
-  "active": "a193f5b3d49411ba",
+  "active": "deba8af22bedcda1",
   "lastOpenFiles": [
+    "06 旅行计划/01 南京.md",
+    "06 旅行计划/01 杭州.md",
+    "06 旅行计划/哈尔滨.md",
     "05 读书笔记/小米创业思考.md",
+    "README.md",
     "04 编程学习/08 CppReview/momenta面经.md",
     "04 编程学习/08 CppReview/算法数据结构复习/数据结构.md",
     "04 编程学习/08 CppReview/算法数据结构复习/算法.md",
@@ -228,17 +206,13 @@
     "00 index/未命名.md",
     "01 asset/Pasted image 20241204214034.png",
     "02 template/旅行计划.md",
-    "README.md",
     "04 编程学习/02 算法/背包问题.md",
     "04 编程学习/01 C++/单例模式特殊类.md",
-    "06 旅行计划/01 杭州.md",
     "04 编程学习/01 C++/常引用.md",
     "04 编程学习/03 Linux/进程切换与环境变量.md",
     "04 编程学习/03 Linux/程序地址空间详解.md",
     "04 编程学习/01 C++/线程池.md",
     "04 编程学习/03 Linux/进程等待.md",
-    "04 编程学习/03 Linux/从《计算机网络》到网络编程.md",
-    "06 旅行计划/哈尔滨.md",
     "01 asset/Pasted image 20241202165602.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",
