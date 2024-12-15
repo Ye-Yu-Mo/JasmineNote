@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1d57cae8fdff3887",
+        "id": "01b29dff04c4aa15",
         "type": "tabs",
         "children": [
           {
-            "id": "deba8af22bedcda1",
+            "id": "14003532c0a274a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 旅行计划/01 南京.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01 南京"
+              "title": "新标签页"
             }
           }
         ]
@@ -34,7 +29,7 @@
       {
         "id": "ce8e3fe7a13861b1",
         "type": "tabs",
-        "dimension": 62.60245901639344,
+        "dimension": 59.83606557377049,
         "children": [
           {
             "id": "53066d848180a4c7",
@@ -93,8 +88,18 @@
       {
         "id": "57e88e10c77e26ba",
         "type": "tabs",
-        "dimension": 37.39754098360656,
+        "dimension": 40.16393442622951,
         "children": [
+          {
+            "id": "95e5ab4223341948",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
           {
             "id": "5b7b6445c95223aa",
             "type": "leaf",
@@ -115,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 旅行计划/01 南京.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,11 +129,11 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "01 南京 的反向链接列表"
+              "title": "反向链接"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,11 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "06 旅行计划/01 南京.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "01 南京 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -174,12 +176,15 @@
       "mxmind:Mxmind": false
     }
   },
-  "active": "deba8af22bedcda1",
+  "active": "14003532c0a274a0",
   "lastOpenFiles": [
     "06 旅行计划/01 南京.md",
+    "05 读书笔记/小米创业思考.md",
+    "04 编程学习/09 Web3/BTC密码学原理.md",
+    "00 index/未命名 1.md",
+    "04 编程学习/09 Web3",
     "06 旅行计划/01 杭州.md",
     "06 旅行计划/哈尔滨.md",
-    "05 读书笔记/小米创业思考.md",
     "README.md",
     "04 编程学习/08 CppReview/momenta面经.md",
     "04 编程学习/08 CppReview/算法数据结构复习/数据结构.md",
@@ -194,7 +199,6 @@
     "04 编程学习/08 CppReview/算法数据结构复习",
     "04 编程学习/08 CppReview/~$-C++后端实习.docx",
     "04 编程学习/08 CppReview/Lei Xu Software Dev Engineer Intern.pdf",
-    "04 编程学习/08 CppReview/Lei Xu Software Dev Engineer Intern.docx",
     "08 CppReview/算法数据结构复习/算法.md",
     "08 CppReview/算法数据结构复习/数据结构.md",
     "08 CppReview/问答.md",
@@ -211,8 +215,6 @@
     "04 编程学习/01 C++/常引用.md",
     "04 编程学习/03 Linux/进程切换与环境变量.md",
     "04 编程学习/03 Linux/程序地址空间详解.md",
-    "04 编程学习/01 C++/线程池.md",
-    "04 编程学习/03 Linux/进程等待.md",
     "01 asset/Pasted image 20241202165602.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",

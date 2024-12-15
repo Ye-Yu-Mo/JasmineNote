@@ -15,10 +15,10 @@
                 "state": {
                   "type": "surfing-view",
                   "state": {
-                    "url": "https://weread.qq.com/web/reader/43832a10813ab703dg011c78kd6432e00228d645920e3401"
+                    "url": "https://weread.qq.com/web/reader/43832a10813ab703dg011c78ka1d32a6022aa1d0c6e83eb4"
                   },
                   "icon": "lucide-file",
-                  "title": "小米创业思考 - 第三部分 小米方法论的实践 - 雷军 徐洁云 - 微信读书"
+                  "title": "小米创业思考 - 第八章 和用户交朋友 - 雷军 徐洁云 - 微信读书"
                 }
               }
             ]
@@ -41,8 +41,69 @@
                   "icon": "lucide-file",
                   "title": "小米创业思考"
                 }
+              },
+              {
+                "id": "f404000657b817a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 读书笔记/小米创业思考.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "小米创业思考"
+                }
+              },
+              {
+                "id": "613b92905024b26b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 读书笔记/小米创业思考.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "小米创业思考"
+                }
+              },
+              {
+                "id": "78821da4924b52d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 读书笔记/小米创业思考.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "小米创业思考"
+                }
+              },
+              {
+                "id": "c3a55050a4ad64c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 读书笔记/小米创业思考.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "小米创业思考"
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -143,7 +204,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "05 读书笔记/小米创业思考.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -153,7 +213,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "小米创业思考 的反向链接列表"
+                  "title": "反向链接"
                 }
               }
             ],
@@ -176,11 +236,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "05 读书笔记/小米创业思考.md"
-                  },
+                  "state": {},
                   "icon": "lucide-list",
-                  "title": "小米创业思考 的大纲"
+                  "title": "大纲"
                 }
               }
             ]
@@ -202,8 +260,8 @@
           "mxmind:Mxmind": false
         }
       },
-      "active": "a193f5b3d49411ba",
-      "mtime": "2024-12-06T12:13:47+08:00"
+      "active": "34c92da535620e0f",
+      "mtime": "2024-12-11T17:32:12+08:00"
     }
   },
   "active": "读书"
