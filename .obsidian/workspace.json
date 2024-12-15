@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "01b29dff04c4aa15",
+        "id": "7251deb562501c49",
         "type": "tabs",
         "children": [
           {
-            "id": "14003532c0a274a0",
+            "id": "dfc8e8e2edf8b4c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "surfing-bookmark-manager",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "album",
+              "title": "Surfing Bookmark Manager"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#前端",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,12 +156,22 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "07c3ce2717e76923",
+            "type": "leaf",
+            "state": {
+              "type": "smart-gantt",
+              "state": {},
+              "icon": "egg",
+              "title": "Smart Gantt"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,13 +183,21 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "mxmind:Mxmind": false
+      "mxmind:Mxmind": false,
+      "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "14003532c0a274a0",
+  "active": "dfc8e8e2edf8b4c6",
   "lastOpenFiles": [
-    "06 旅行计划/01 南京.md",
+    "07 计划/00 长期计划/六年之约.md",
+    "07 计划/02 短期计划/2024-12 -- 2025-4.md",
     "05 读书笔记/小米创业思考.md",
+    "07 计划/01 年计划/2025年计划.md",
+    "07 计划/02 短期计划",
+    "07 计划/01 年计划",
+    "07 计划/00 长期计划",
+    "07 计划",
+    "06 旅行计划/01 南京.md",
     "04 编程学习/09 Web3/BTC密码学原理.md",
     "00 index/未命名 1.md",
     "04 编程学习/09 Web3",
@@ -195,10 +213,6 @@
     "04 编程学习/08 CppReview/许磊-后端研发实习生.pdf",
     "04 编程学习/08 CppReview/许磊-后端研发实习生.docx",
     "04 编程学习/08 CppReview/许磊-C++后端实习.pdf",
-    "04 编程学习/08 CppReview/许磊-C++后端实习.docx",
-    "04 编程学习/08 CppReview/算法数据结构复习",
-    "04 编程学习/08 CppReview/~$-C++后端实习.docx",
-    "04 编程学习/08 CppReview/Lei Xu Software Dev Engineer Intern.pdf",
     "08 CppReview/算法数据结构复习/算法.md",
     "08 CppReview/算法数据结构复习/数据结构.md",
     "08 CppReview/问答.md",
@@ -207,14 +221,11 @@
     "CppReview/算法数据结构复习/数据结构.md",
     "CppReview/问答.md",
     "CppReview/momenta面经.md",
-    "00 index/未命名.md",
     "01 asset/Pasted image 20241204214034.png",
     "02 template/旅行计划.md",
     "04 编程学习/02 算法/背包问题.md",
     "04 编程学习/01 C++/单例模式特殊类.md",
     "04 编程学习/01 C++/常引用.md",
-    "04 编程学习/03 Linux/进程切换与环境变量.md",
-    "04 编程学习/03 Linux/程序地址空间详解.md",
     "01 asset/Pasted image 20241202165602.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",
