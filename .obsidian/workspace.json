@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7251deb562501c49",
+        "id": "321e27a78bc4db8e",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc8e8e2edf8b4c6",
+            "id": "254e8ac444f40942",
             "type": "leaf",
             "state": {
-              "type": "surfing-bookmark-manager",
-              "state": {},
-              "icon": "album",
-              "title": "Surfing Bookmark Manager"
+              "type": "markdown",
+              "state": {
+                "file": "08 理财学习/4%定投法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4%定投法"
             }
           }
         ]
@@ -120,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "08 理财学习/4%定投法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +135,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "4%定投法 的反向链接列表"
             }
           }
         ],
@@ -152,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "08 理财学习/4%定投法.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "4%定投法 的大纲"
             }
           },
           {
@@ -171,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,18 +196,24 @@
       "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "dfc8e8e2edf8b4c6",
+  "active": "254e8ac444f40942",
   "lastOpenFiles": [
-    "07 计划/00 长期计划/六年之约.md",
+    "04 编程学习/09 Web3/000 Web3 简介.md",
+    "01 asset/Pasted image 20241217121721.png",
+    "01 asset/Pasted image 20241204214034.png",
+    "08 理财学习/4%定投法.md",
+    "08 理财学习",
+    "04 编程学习/09 Web3/BTC密码学原理.md",
     "07 计划/02 短期计划/2024-12 -- 2025-4.md",
-    "05 读书笔记/小米创业思考.md",
+    "未命名.canvas",
     "07 计划/01 年计划/2025年计划.md",
+    "07 计划/00 长期计划/六年之约.md",
+    "05 读书笔记/小米创业思考.md",
     "07 计划/02 短期计划",
     "07 计划/01 年计划",
     "07 计划/00 长期计划",
     "07 计划",
     "06 旅行计划/01 南京.md",
-    "04 编程学习/09 Web3/BTC密码学原理.md",
     "00 index/未命名 1.md",
     "04 编程学习/09 Web3",
     "06 旅行计划/01 杭州.md",
@@ -212,7 +227,6 @@
     "04 编程学习/08 CppReview/许磊-游戏引擎研发工程师.docx",
     "04 编程学习/08 CppReview/许磊-后端研发实习生.pdf",
     "04 编程学习/08 CppReview/许磊-后端研发实习生.docx",
-    "04 编程学习/08 CppReview/许磊-C++后端实习.pdf",
     "08 CppReview/算法数据结构复习/算法.md",
     "08 CppReview/算法数据结构复习/数据结构.md",
     "08 CppReview/问答.md",
@@ -221,11 +235,7 @@
     "CppReview/算法数据结构复习/数据结构.md",
     "CppReview/问答.md",
     "CppReview/momenta面经.md",
-    "01 asset/Pasted image 20241204214034.png",
     "02 template/旅行计划.md",
-    "04 编程学习/02 算法/背包问题.md",
-    "04 编程学习/01 C++/单例模式特殊类.md",
-    "04 编程学习/01 C++/常引用.md",
     "01 asset/Pasted image 20241202165602.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",
@@ -233,8 +243,6 @@
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/right-active.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/left-passive.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/left-active.png",
-    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/centre-passive.png",
-    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/centre-active.png",
-    "未命名.canvas"
+    "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/centre-passive.png"
   ]
 }
