@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "321e27a78bc4db8e",
+        "id": "046d5ca437e07315",
         "type": "tabs",
         "children": [
           {
-            "id": "254e8ac444f40942",
+            "id": "3773dd1db8ef6f8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 理财学习/4%定投法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4%定投法"
+              "title": "新标签页"
             }
           }
         ]
@@ -34,7 +29,7 @@
       {
         "id": "ce8e3fe7a13861b1",
         "type": "tabs",
-        "dimension": 59.83606557377049,
+        "dimension": 67.00819672131148,
         "children": [
           {
             "id": "53066d848180a4c7",
@@ -54,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#前端",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +88,7 @@
       {
         "id": "57e88e10c77e26ba",
         "type": "tabs",
-        "dimension": 40.16393442622951,
+        "dimension": 32.99180327868852,
         "children": [
           {
             "id": "95e5ab4223341948",
@@ -125,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 理财学习/4%定投法.md",
+                "file": "04 编程学习/10 项目学习/高频交易系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +130,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "4%定投法 的反向链接列表"
+              "title": "高频交易系统 的反向链接列表"
             }
           }
         ],
@@ -159,31 +154,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 理财学习/4%定投法.md"
+                "file": "04 编程学习/10 项目学习/高频交易系统.md"
               },
               "icon": "lucide-list",
-              "title": "4%定投法 的大纲"
-            }
-          },
-          {
-            "id": "07c3ce2717e76923",
-            "type": "leaf",
-            "state": {
-              "type": "smart-gantt",
-              "state": {},
-              "icon": "egg",
-              "title": "Smart Gantt"
+              "title": "高频交易系统 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 224.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-gantt:Smart Gantt": false,
       "github-sync:Sync with Remote": false,
       "surfing:surfing-bookmark-manager": false,
       "switcher:打开快速切换": false,
@@ -192,23 +178,29 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "mxmind:Mxmind": false,
-      "smart-gantt:Smart Gantt": false
+      "mxmind:Mxmind": false
     }
   },
-  "active": "254e8ac444f40942",
+  "active": "3773dd1db8ef6f8c",
   "lastOpenFiles": [
+    "04 编程学习/10 项目学习/高频交易系统.md",
+    "04 编程学习/07 C++第三方库/cinatra.md",
+    "04 编程学习/07 C++第三方库/C++后端框架.md",
+    "04 编程学习/07 C++第三方库/C++配置文件库.md",
+    "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 客户端代码开发.pdf",
+    "05 读书笔记/小米创业思考.md",
+    "04 编程学习/10 项目学习",
+    "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 后台服务器实现.pdf",
+    "08 理财学习/4%定投法.md",
     "04 编程学习/09 Web3/000 Web3 简介.md",
     "01 asset/Pasted image 20241217121721.png",
     "01 asset/Pasted image 20241204214034.png",
-    "08 理财学习/4%定投法.md",
     "08 理财学习",
     "04 编程学习/09 Web3/BTC密码学原理.md",
     "07 计划/02 短期计划/2024-12 -- 2025-4.md",
     "未命名.canvas",
     "07 计划/01 年计划/2025年计划.md",
     "07 计划/00 长期计划/六年之约.md",
-    "05 读书笔记/小米创业思考.md",
     "07 计划/02 短期计划",
     "07 计划/01 年计划",
     "07 计划/00 长期计划",
@@ -224,18 +216,12 @@
     "04 编程学习/08 CppReview/算法数据结构复习/算法.md",
     "04 编程学习/08 CppReview/问答.md",
     "04 编程学习/08 CppReview/许磊-游戏引擎研发工程师.pdf",
-    "04 编程学习/08 CppReview/许磊-游戏引擎研发工程师.docx",
-    "04 编程学习/08 CppReview/许磊-后端研发实习生.pdf",
-    "04 编程学习/08 CppReview/许磊-后端研发实习生.docx",
     "08 CppReview/算法数据结构复习/算法.md",
     "08 CppReview/算法数据结构复习/数据结构.md",
     "08 CppReview/问答.md",
     "08 CppReview/momenta面经.md",
     "CppReview/算法数据结构复习/算法.md",
     "CppReview/算法数据结构复习/数据结构.md",
-    "CppReview/问答.md",
-    "CppReview/momenta面经.md",
-    "02 template/旅行计划.md",
     "01 asset/Pasted image 20241202165602.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",
