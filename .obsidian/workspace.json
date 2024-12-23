@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "046d5ca437e07315",
+        "id": "1d7c8a308b90e3c0",
         "type": "tabs",
         "children": [
           {
-            "id": "3773dd1db8ef6f8c",
+            "id": "ed1676c4a6076255",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,6 @@
       {
         "id": "ce8e3fe7a13861b1",
         "type": "tabs",
-        "dimension": 67.00819672131148,
         "children": [
           {
             "id": "53066d848180a4c7",
@@ -88,7 +87,6 @@
       {
         "id": "57e88e10c77e26ba",
         "type": "tabs",
-        "dimension": 32.99180327868852,
         "children": [
           {
             "id": "95e5ab4223341948",
@@ -120,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 编程学习/10 项目学习/高频交易系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "高频交易系统 的反向链接列表"
+              "title": "反向链接"
             }
           }
         ],
@@ -153,19 +150,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "04 编程学习/10 项目学习/高频交易系统.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "高频交易系统 的大纲"
+              "title": "大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +175,15 @@
       "mxmind:Mxmind": false
     }
   },
-  "active": "3773dd1db8ef6f8c",
+  "active": "ed1676c4a6076255",
   "lastOpenFiles": [
+    "06 旅行计划/01 南京.md",
+    "05 读书笔记/小米创业思考.md",
     "04 编程学习/10 项目学习/高频交易系统.md",
     "04 编程学习/07 C++第三方库/cinatra.md",
     "04 编程学习/07 C++第三方库/C++后端框架.md",
     "04 编程学习/07 C++第三方库/C++配置文件库.md",
     "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 客户端代码开发.pdf",
-    "05 读书笔记/小米创业思考.md",
     "04 编程学习/10 项目学习",
     "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 后台服务器实现.pdf",
     "08 理财学习/4%定投法.md",
@@ -205,7 +200,6 @@
     "07 计划/01 年计划",
     "07 计划/00 长期计划",
     "07 计划",
-    "06 旅行计划/01 南京.md",
     "00 index/未命名 1.md",
     "04 编程学习/09 Web3",
     "06 旅行计划/01 杭州.md",
