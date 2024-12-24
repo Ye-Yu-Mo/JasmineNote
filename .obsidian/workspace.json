@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "18dd770e95c4e061",
+        "id": "1a6358b2ca5034cd",
         "type": "tabs",
         "children": [
           {
-            "id": "ebb7542389efbd30",
+            "id": "3a9698308e39c7a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 读书笔记/INTJ-Survival-Guide/README.md",
+                "file": "05 读书笔记/INTJ-Survival-Guide/思维进阶/INTJ的发展阶段.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "INTJ的发展阶段"
+            }
+          },
+          {
+            "id": "bade5a0edb63aa54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 读书笔记/INTJ-Survival-Guide/思维进阶/人生是一场漫长的自证预言.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "人生是一场漫长的自证预言"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 读书笔记/INTJ-Survival-Guide/README.md",
+                "file": "05 读书笔记/INTJ-Survival-Guide/思维进阶/人生是一场漫长的自证预言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "人生是一场漫长的自证预言 的反向链接列表"
             }
           }
         ],
@@ -157,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 读书笔记/INTJ-Survival-Guide/README.md"
+                "file": "05 读书笔记/INTJ-Survival-Guide/思维进阶/人生是一场漫长的自证预言.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "人生是一场漫长的自证预言 的大纲"
             }
           }
         ]
@@ -183,36 +199,38 @@
       "mxmind:Mxmind": false
     }
   },
-  "active": "ebb7542389efbd30",
+  "active": "bade5a0edb63aa54",
   "lastOpenFiles": [
-    "05 读书笔记/INTJ生存指南/前言.md",
+    "05 读书笔记/INTJ-Survival-Guide/思维进阶/INTJ的发展阶段.md",
+    "05 读书笔记/INTJ-Survival-Guide/思维进阶/人生是一场漫长的自证预言.md",
     "05 读书笔记/INTJ-Survival-Guide/README.md",
+    "05 读书笔记/INTJ-Survival-Guide/思维进阶",
+    "01 asset/Pasted image 20241217121721.png",
+    "book/05 C++项目/QT项目/1212客户端开发/9-地铁系统SubwayTransferSystem.pdf",
+    "book/05 C++项目/QT项目/1212客户端开发/8-黑板系统WBoard.pdf",
+    "book/05 C++项目/QT项目/1212客户端开发/7-仿QQ影音源码.txt",
+    "book/05 C++项目/QT项目/1212客户端开发/6-云会议项目.txt",
+    "book/05 C++项目/QT项目/1212客户端开发/5-彩超系统Telemedicine.rar",
+    "book/05 C++项目/QT项目/1212客户端开发/4- qt5开发及实例 第4版.pdf",
+    "book/05 C++项目/QT项目/1212客户端开发/3-QT天气工具项目.pdf",
+    "book/05 C++项目/QT项目/1212客户端开发/2-QT天气预报项目.zip",
+    "book/05 C++项目/QT项目/1212客户端开发/12-21天学通C++第8版 高清完整PDF.pdf",
+    "05 读书笔记/INTJ生存指南/前言.md",
     "05 读书笔记/INTJ-Survival-Guide/前言.md",
-    "05 读书笔记/INTJ-Survival-Guide",
-    "00 index/INTJ-",
-    "05 读书笔记/INTJ生存指南",
-    "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 后台服务器实现/2.后台环境搭建-总.pdf",
-    "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 后台服务器实现.pdf",
     "06 旅行计划/01 南京.md",
     "05 读书笔记/小米创业思考.md",
     "04 编程学习/10 项目学习/高频交易系统.md",
     "04 编程学习/07 C++第三方库/cinatra.md",
     "04 编程学习/07 C++第三方库/C++后端框架.md",
     "04 编程学习/07 C++第三方库/C++配置文件库.md",
-    "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 客户端代码开发.pdf",
-    "04 编程学习/10 项目学习",
     "08 理财学习/4%定投法.md",
     "04 编程学习/09 Web3/000 Web3 简介.md",
-    "01 asset/Pasted image 20241217121721.png",
     "01 asset/Pasted image 20241204214034.png",
-    "08 理财学习",
     "04 编程学习/09 Web3/BTC密码学原理.md",
     "07 计划/02 短期计划/2024-12 -- 2025-4.md",
     "未命名.canvas",
     "07 计划/01 年计划/2025年计划.md",
     "07 计划/00 长期计划/六年之约.md",
-    "07 计划/02 短期计划",
-    "07 计划/01 年计划",
     "00 index/未命名 1.md",
     "06 旅行计划/01 杭州.md",
     "06 旅行计划/哈尔滨.md",
@@ -222,8 +240,6 @@
     "04 编程学习/08 CppReview/算法数据结构复习/算法.md",
     "04 编程学习/08 CppReview/问答.md",
     "08 CppReview/算法数据结构复习/算法.md",
-    "08 CppReview/算法数据结构复习/数据结构.md",
-    "08 CppReview/问答.md",
     "01 asset/Pasted image 20241202165602.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",
