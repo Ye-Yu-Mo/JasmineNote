@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1d7c8a308b90e3c0",
+        "id": "18dd770e95c4e061",
         "type": "tabs",
         "children": [
           {
-            "id": "ed1676c4a6076255",
+            "id": "ebb7542389efbd30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05 读书笔记/INTJ-Survival-Guide/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -118,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "05 读书笔记/INTJ-Survival-Guide/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "README 的反向链接列表"
             }
           }
         ],
@@ -150,9 +156,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "05 读书笔记/INTJ-Survival-Guide/README.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           }
         ]
@@ -175,8 +183,16 @@
       "mxmind:Mxmind": false
     }
   },
-  "active": "ed1676c4a6076255",
+  "active": "ebb7542389efbd30",
   "lastOpenFiles": [
+    "05 读书笔记/INTJ生存指南/前言.md",
+    "05 读书笔记/INTJ-Survival-Guide/README.md",
+    "05 读书笔记/INTJ-Survival-Guide/前言.md",
+    "05 读书笔记/INTJ-Survival-Guide",
+    "00 index/INTJ-",
+    "05 读书笔记/INTJ生存指南",
+    "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 后台服务器实现/2.后台环境搭建-总.pdf",
+    "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 后台服务器实现.pdf",
     "06 旅行计划/01 南京.md",
     "05 读书笔记/小米创业思考.md",
     "04 编程学习/10 项目学习/高频交易系统.md",
@@ -185,7 +201,6 @@
     "04 编程学习/07 C++第三方库/C++配置文件库.md",
     "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 客户端代码开发.pdf",
     "04 编程学习/10 项目学习",
-    "book/05 C++项目/XuChat/C++ - 微服务的即时通讯系统-课件/C++ 聊天室 - 后台服务器实现.pdf",
     "08 理财学习/4%定投法.md",
     "04 编程学习/09 Web3/000 Web3 简介.md",
     "01 asset/Pasted image 20241217121721.png",
@@ -198,10 +213,7 @@
     "07 计划/00 长期计划/六年之约.md",
     "07 计划/02 短期计划",
     "07 计划/01 年计划",
-    "07 计划/00 长期计划",
-    "07 计划",
     "00 index/未命名 1.md",
-    "04 编程学习/09 Web3",
     "06 旅行计划/01 杭州.md",
     "06 旅行计划/哈尔滨.md",
     "README.md",
@@ -209,13 +221,9 @@
     "04 编程学习/08 CppReview/算法数据结构复习/数据结构.md",
     "04 编程学习/08 CppReview/算法数据结构复习/算法.md",
     "04 编程学习/08 CppReview/问答.md",
-    "04 编程学习/08 CppReview/许磊-游戏引擎研发工程师.pdf",
     "08 CppReview/算法数据结构复习/算法.md",
     "08 CppReview/算法数据结构复习/数据结构.md",
     "08 CppReview/问答.md",
-    "08 CppReview/momenta面经.md",
-    "CppReview/算法数据结构复习/算法.md",
-    "CppReview/算法数据结构复习/数据结构.md",
     "01 asset/Pasted image 20241202165602.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/tab.png",
     "book/05 C++项目/QT项目/多功能浏览器/WBoard/WBoard/Resources/images/virtual.keyboard/41/shift.png",
